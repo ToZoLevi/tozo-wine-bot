@@ -1,3 +1,4 @@
 ### .gitignore ###
 # Twitter API credentials
 twitter-api-credentials.js
+twitter-api-credentials.js~
